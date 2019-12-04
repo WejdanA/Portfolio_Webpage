@@ -15,7 +15,7 @@ This project is Fully responsive portfolio web page that describe Udacity academ
 
 
 ## Usage
-- Just open the file called **index** in the explorer to test the project.
+- Just open the file called **project** in the explorer to test the project.
 - If you intend to edit the code or reuse
   - You can uses one of the text editor software such as Atom and Visual Studio Code
     - Using Atom to edit the code:
